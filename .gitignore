@@ -1,0 +1,18 @@
+# Environment Configuration
+.env
+
+
+# dependencies
+/node_modules
+/node_modules/*
+node_modules/
+node_modules/**
+**/node_modules
+node_modules/
+
+# IntelliJ IDE ignore
+.idea
+
+# Visual Studio Code
+.vscode
+.history
